@@ -184,18 +184,3 @@ MIT License — см. [LICENSE](LICENSE)
 
 ---
 
-## 🙏 Благодарности
-
-- [PyQt6](https://pypi.org/project/PyQt6/) — GUI фреймворк
-- [QtAwesome](https://github.com/spyder-ide/qtawesome) — иконки
-- [NumPy](https://numpy.org/) — быстрые вычисления
-
----
-
-<div align="center">
-
-**Сделано с ❤️ для художников и разработчиков**
-
-⭐ Поставьте звезду, если проект полезен!
-
-</div>
